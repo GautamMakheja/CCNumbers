@@ -54,9 +54,17 @@ When prompted:
 How many sentences to generate?: 5
 
 My new credit card with the number 4532 1234 5678 9012 arrived in the mail yesterday afternoon.
+
+
 The weather was absolutely perfect for taking a long walk in the beautiful city park.
+
+
 Please use the credit card number 5555 1234 5678 9012 for processing the payment transaction.
+
+
 The fluffy cat slept peacefully on the warm windowsill throughout the entire afternoon.
+
+
 I carefully memorized my new credit card number: 6011 1234 5678 9012 for future reference.
 
 ---
